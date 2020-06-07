@@ -1,10 +1,14 @@
 title: Emma Effa # your name (or website title) here
 logo: "/images/0.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
+ Doctor in computer science, I offer a freelance service in natural language processing.
+<br><br>
+I have realized several projects with different techniques of natural language processing and machine learning.
+<br><br>
+I have a good experience with large volumes of textual datas as well as low volumes of textual data.
+  
+  
+  
   <a href="https://www.linkedin.com/in/emma-effa-935a8226/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
