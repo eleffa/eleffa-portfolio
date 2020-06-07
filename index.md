@@ -2,28 +2,28 @@
 
 ---
 
-### Category Name 1 
+### Some results
 
-[Project 1 Title](/sample_page)
+[AGGREGATION TRACE LINKS SUPPORT(ATLaS)](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Ewondo translator](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Sentiment Analysis](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Github links project
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [AGGREGATION TRACE LINKS SUPPORT(ATLaS)](https://github.com/eleffa/ATLaS)
+- [Ewondo translator](http://example.com/)
+- [Sentiment Analysis](http://example.com/)
+- [Legal tech dataset](https://github.com/eleffa/NLP-for-lawyer)
+- [Connector OSCL](https://github.com/eleffa/connector_oslc)
 
 ---
 
