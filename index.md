@@ -4,7 +4,7 @@
 
 ### Some results
 
-[AGGREGATION TRACE LINKS SUPPORT(ATLaS)](/sample_page)
+[Aggregation Trace Links Support(ATLaS)](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -19,7 +19,7 @@
 
 ### Github links project
 
-- [AGGREGATION TRACE LINKS SUPPORT(ATLaS)](https://github.com/eleffa/ATLaS)
+- [Aggregation Trace Links Support(ATLaS)](https://github.com/eleffa/ATLaS)
 - [Ewondo translator](http://example.com/)
 - [Sentiment Analysis](http://example.com/)
 - [Legal tech dataset](https://github.com/eleffa/NLP-for-lawyer)
