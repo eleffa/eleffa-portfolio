@@ -17,7 +17,7 @@
 
 ---
 
-### Github links project
+### Github projects links
 
 - [Aggregation Trace Links Support(ATLaS)](https://github.com/eleffa/ATLaS)
 - [Ewondo translator](http://example.com/)
